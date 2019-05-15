@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd0a3931-d3f3-4983-a902-8dd61f52a25e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/109df4dfa2eb150ae81d997e277543e0.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/109df4dfa2eb150ae81d997e277543e0.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2d6ae07e80a72860a8dde353ec3f6b2c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2d6ae07e80a72860a8dde353ec3f6b2c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9cf08eebfb17c86db5cea11aa0b1302f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9cf08eebfb17c86db5cea11aa0b1302f.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ef6ab323cb3376602ed9e23a64e1d448.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ef6ab323cb3376602ed9e23a64e1d448.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1ffefe27c039e86b0941ee6abad4c2ec.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1ffefe27c039e86b0941ee6abad4c2ec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/26f65a43fbc3ed9bc36f8cac765327e2.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/26f65a43fbc3ed9bc36f8cac765327e2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3918a45106ff287430cc94fe0850dd04.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3918a45106ff287430cc94fe0850dd04.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/64faffebf5904852a3c5b565629666fc.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/64faffebf5904852a3c5b565629666fc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/72d4b99d0be1acd52ef03519d84d4052.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/72d4b99d0be1acd52ef03519d84d4052.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/897d200f4676717faa24d4eb682764c4.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/897d200f4676717faa24d4eb682764c4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/8ed695c21695bee793e2b1ea6345f49d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/8ed695c21695bee793e2b1ea6345f49d.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/aa62896e03858060ab4dcab58941b86b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/aa62896e03858060ab4dcab58941b86b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ff282e0d57b510f83ca16eaad8966e87.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ff282e0d57b510f83ca16eaad8966e87.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/student.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/student.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/student.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/student.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -71,7 +53,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/student.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="777">
+                <state relative-caret-position="5041">
                   <caret line="559" column="26" lean-forward="true" selection-start-line="559" selection-start-column="26" selection-end-line="559" selection-end-column="26" />
                 </state>
               </provider>
@@ -227,15 +209,15 @@
       <updated>1557820835467</updated>
       <workItem from="1557820837513" duration="683000" />
       <workItem from="1557821698980" duration="9226000" />
-      <workItem from="1557907825434" duration="2538000" />
+      <workItem from="1557907825434" duration="3738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12447000" />
+    <option name="totallyTimeSpent" value="13647000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11427067" />
@@ -309,7 +291,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/student.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
+        <state relative-caret-position="5041">
           <caret line="559" column="26" lean-forward="true" selection-start-line="559" selection-start-column="26" selection-end-line="559" selection-end-column="26" />
         </state>
       </provider>

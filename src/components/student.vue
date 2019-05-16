@@ -555,17 +555,17 @@ export default {
     }
     .paragh p{
         margin-left: 20px;
-    }
-    .paragh p:first-child{
-        font-weight: bold;
-    }
-    .paragh p:nth-child(2){
-        height: 24px;
-    }
-    .paragh p:nth-child(3){
-        height: 20px;
-        font-size: 12px;
-        color: #999999;
+        p:first-child{
+            font-weight: bold;
+        }
+        p:nth-child(2){
+            height: 24px;
+        }
+        p:nth-child(3){
+            height: 20px;
+            font-size: 12px;
+            color: #999999;
+        }
     }
 
 

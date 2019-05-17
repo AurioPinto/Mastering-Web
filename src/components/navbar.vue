@@ -380,6 +380,9 @@
 </script>
 
 <style lang="scss" scoped>
+    input{
+        outline: none;
+    }
 .init{
     .nav-bar{
         width: 100%;
@@ -482,6 +485,11 @@
                 .profile{
                     display: flex;
                     align-items: center;
+                    img{
+                        width: 100px;
+                        height: 100px;
+                        border-radius: 50px;
+                    }
                     .paragh p{
                         margin-left: 20px;
                         p:first-child{
@@ -498,14 +506,43 @@
                     }
                 }
             }
+            .box-flow{
+                width: 1180px;
+                height: 872px;
+                background-color: #ffffff;
+                margin: 0 40px;
+                p:nth-child(1){
+                    text-align: center;
+                    font-weight: bold;
+                    height: 22px;
+                    font-size: 16px;
+                    line-height: 22px;
+                }
+                .avatar{
+                    width: 16.667%;
+                    text-align: center;
+                    margin-bottom: 52px;
+                    img{
+                        vertical-align: center;
+                        border-radius: 50px;
+                        border:  1px solid rgba(0,38,60,1);
+                    }
+                    .first-p second-p{
+                        text-align: center;
+                    }
+                    .first-p,second-p{
+                        margin-top: 19px;
+                    }
+                    .first-p{
+                        text-align: center;
+                        font-weight: bold;
+                    }
+                    .second-p{
+                        color: #000F16;
+                    }
+                }
+            }
         }
-
-
-        /*.profile img{*/
-        /*    width: 100px;*/
-        /*    height: 100px;*/
-        /*    border-radius: 50px;*/
-        /*}*/
     }
 }
 </style>

@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './views/Home.vue'
 import load from './views/load.vue'
-// import student from './views/student'
+import init from './views/init'
 import navbar from './views/navbar'
 
 Vue.use(Router)
@@ -20,11 +20,11 @@ export default new Router({
             name: 'load',
             component: load
         },
-        // {
-        //     path: '/student',
-        //     name: 'student',
-        //     component: student
-        // },
+        {
+            path: '/init',
+            name: 'init',
+            component: init
+        },
         {
             path: '/navbar',
             name: 'navbar',

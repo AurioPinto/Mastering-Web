@@ -18,7 +18,7 @@ export default {
   },
   mounted () {
     setTimeout(() => {
-      this.$router.push('/Student')
+      this.$router.push('/init')
     }, 3000)
   }
 }

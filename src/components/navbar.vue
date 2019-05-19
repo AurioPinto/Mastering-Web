@@ -5,10 +5,10 @@
             <div class="p">
                 <img width="30" height="30" src="../assets/images/tongjirongji.png" alt="">
                 <div>
-                    <router-link to="/">Home</router-link>
-                    <router-link to="/">Students</router-link>
-                    <router-link to="/">News</router-link>
-                    <router-link to="/">Library</router-link>
+                    <router-link to="init">Home</router-link>
+                    <router-link to="navbar">Students</router-link>
+                    <a href="https://en.tongji.edu.cn/">About Tongji</a>
+                    <a href="http://www.lib.tongji.edu.cn/site/tongji/index.html">Library</a>
                 </div>
             </div>
             <div class="img">
@@ -34,7 +34,7 @@
                         <div class="paragh">
                             <P>{{currentPeople.cnName}}</P>
                             <P>{{currentPeople.enName}}</P>
-                            <P>数字运营部中国</P>
+                            <P>通信工程</P>
                         </div>
                     </div>
                     <div class="first-buttom">
@@ -51,8 +51,8 @@
                         <p>{{currentPeople.电话}}</p>
                     </div>
                     <div>
-                        <p class="bold">汇报</p>
-                        <p>{{currentPeople.汇报}}</p>
+                        <p class="bold">老师</p>
+                        <p>{{currentPeople.老师}}</p>
                     </div>
                     <div>
                         <p class="bold">地点</p>
@@ -73,7 +73,7 @@
                 </div>
                 <div class="box-flow">
                     <div class="big-box">
-                        <p>数字运营部中国 226人</p>
+                        <p>电子信息工程学院 226人</p>
                     </div>
                     <div class="the-box">
                          <div class="avatar" v-for="(people ,$index) in person" @click="showInfo(people)">
@@ -102,10 +102,10 @@
             avatar:'../assets/images/west-bj.jpg',
             cnName:'斯提凡',
             enName:"Pinto West",
-            邮件:'aurio.pinto@nio.com',
+            邮件:'aurio.pinto@tongji.edu.cn',
             电话: '+86 18717897971',
             前公司: 'Microsoft',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Tongji University',
             员工编号: '0182638'
           },
@@ -113,10 +113,10 @@
             avatar:'../assets/images/img-1.jpg',
             cnName:'文蓉蓉',
             enName:"Charlie Torphy",
-            邮件:'xiaoxin.fang@nio.com',
+            邮件:'xiaoxin.fang@tongji.edu.cn',
             电话: '+86 138363293',
             前公司: 'Apple',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Fudan University',
             员工编号: '01874638'
           },
@@ -124,10 +124,10 @@
             avatar:'../assets/images/img-3.jpg',
             cnName:'廖咪',
             enName:"Raquel Haag",
-            邮件:'raquel.haag@nio.com',
+            邮件:'raquel.haag@tongji.edu.cn',
             电话: '+86 127978293',
             前公司: 'Google',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Beijing University',
             员工编号: '01289138'
           },
@@ -135,10 +135,10 @@
             avatar:'../assets/images/img-2.jpg',
             cnName:'杜航斯',
             enName:"Camden Yost",
-            邮件:'camden.yost@nio.com',
+            邮件:'camden.yost@tongji.edu.cn',
             电话: '+86 122739293',
             前公司: 'Google',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Imperial College',
             员工编号: '01289138'
           },
@@ -146,10 +146,10 @@
             avatar:'../assets/images/img-9.jpg',
             cnName:'李童童',
             enName:"Simeon Gislason",
-            邮件:'simeon.gislason@nio.com',
+            邮件:'simeon.gislason@tongji.edu.cn',
             电话: '+86 122739293',
             前公司: 'Toyota',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Mexico University',
             员工编号: '01289138'
           },
@@ -157,10 +157,10 @@
             avatar:'../assets/images/img-5.jpg',
             cnName:'张晓萌',
             enName:"Alan Cain",
-            邮件:'alan.cain@nio.com',
+            邮件:'alan.cain@tongji.edu.cn',
             电话: '+86 122739293',
             前公司: 'Facebook',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Oxford University',
             员工编号: '01289138'
           },
@@ -168,10 +168,10 @@
             avatar:'../assets/images/img-6.jpg',
             cnName:'蒋挺',
             enName:"Rocio Goodwin",
-            邮件:'raquel.haag@nio.com',
+            邮件:'raquel.haag@tongji.edu.cn',
             电话: '+86 127978293',
             前公司: 'Google',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Beijing University',
             员工编号: '01289138'
           },
@@ -179,10 +179,10 @@
             avatar:'../assets/images/img-7.jpg',
             cnName:'孙诺',
             enName:"Gianni Block",
-            邮件:'giami.block@nio.com',
+            邮件:'giami.block@tongji.edu.cn',
             电话: '+86 122739293',
             前公司: 'Facebook',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Oxford University',
             员工编号: '01289138'
           },
@@ -190,10 +190,10 @@
             avatar:'../assets/images/img-8.jpg',
             cnName:'易灿',
             enName:"Elda Rutherford",
-            邮件:'elda.rutherford@nio.com',
+            邮件:'elda.rutherford@tongji.edu.cn',
             电话: '+86 127978293',
             前公司: 'apLink.lda',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Wuhan University',
             员工编号: '01289138'
           },
@@ -201,10 +201,10 @@
             avatar:'../assets/images/img-4.jpg',
             cnName:'萧嘟嘟',
             enName:"Kole Bednar",
-            邮件:'kole.bednar@nio.com',
+            邮件:'kole.bednar@tongji.edu.cn',
             电话: '+86 185278293',
             前公司: 'Tecent',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Beijing University',
             员工编号: '01289138'
           },
@@ -212,10 +212,10 @@
             avatar:'../assets/images/img-13.jpg',
             cnName:'邓卜鹅',
             enName:"Jarret Mante",
-            邮件:'jarret.manteg@nio.com',
+            邮件:'jarret.manteg@tongji.edu.cn',
             电话: '+86 172637893',
             前公司: 'Forbes',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'State University',
             员工编号: '01226726'
           },
@@ -223,10 +223,10 @@
             avatar:'../assets/images/pretty.jpg',
             cnName:'李峰',
             enName:"Vilma Connell",
-            邮件:'vilma.connellg@nio.com',
+            邮件:'vilma.connellg@tongji.edu.cn',
             电话: '+86 127971763',
             前公司: 'Taobao.cn',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Jiaotong University',
             员工编号: '01289561'
           },
@@ -234,10 +234,10 @@
             avatar:'../assets/images/img-1.jpg',
             cnName:'文蓉蓉',
             enName:"Charlie Torphy",
-            邮件:'xiaoxin.fang@nio.com',
+            邮件:'xiaoxin.fang@tongji.edu.cn',
             电话: '+86 138363293',
             前公司: 'Apple',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Fudan University',
             员工编号: '01874638'
           },
@@ -245,10 +245,10 @@
             avatar:'../assets/images/img-3.jpg',
             cnName:'廖咪',
             enName:"Raquel Haag",
-            邮件:'raquel.haag@nio.com',
+            邮件:'raquel.haag@tongji.edu.cn',
             电话: '+86 127978293',
             前公司: 'Google',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Beijing University',
             员工编号: '01289138'
           },
@@ -256,10 +256,10 @@
             avatar:'../assets/images/img-2.jpg',
             cnName:'杜航斯',
             enName:"Camden Yost",
-            邮件:'camden.yost@nio.com',
+            邮件:'camden.yost@tongji.edu.cn',
             电话: '+86 122739293',
             前公司: 'Google',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Imperial College',
             员工编号: '01289138'
           },
@@ -267,10 +267,10 @@
             avatar:'../assets/images/img-9.jpg',
             cnName:'李童童',
             enName:"Simeon Gislason",
-            邮件:'simeon.gislason@nio.com',
+            邮件:'simeon.gislason@tongji.edu.cn',
             电话: '+86 122739293',
             前公司: 'Toyota',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Mexico University',
             员工编号: '01289138'
           },
@@ -281,7 +281,7 @@
             邮件:'alan.cain@nio.com',
             电话: '+86 122739293',
             前公司: 'Facebook',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Oxford University',
             员工编号: '01289138'
           },
@@ -293,7 +293,7 @@
             邮件:'raquel.haag@nio.com',
             电话: '+86 127978293',
             前公司: 'Google',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Beijing University',
             员工编号: '01289138'
           },
@@ -304,7 +304,7 @@
             邮件:'giami.block@nio.com',
             电话: '+86 122739293',
             前公司: 'Facebook',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Oxford University',
             员工编号: '01289138'
           },
@@ -315,7 +315,7 @@
             邮件:'elda.rutherford@nio.com',
             电话: '+86 127978293',
             前公司: 'apLink.lda',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Wuhan University',
             员工编号: '01289138'
           },
@@ -326,7 +326,7 @@
             邮件:'kole.bednar@nio.com',
             电话: '+86 185278293',
             前公司: 'Tecent',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Beijing University',
             员工编号: '01289138'
           },
@@ -337,7 +337,7 @@
             邮件:'jarret.manteg@nio.com',
             电话: '+86 172637893',
             前公司: 'Forbes',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'State University',
             员工编号: '01226726'
           },
@@ -348,7 +348,7 @@
             邮件:'vilma.connellg@nio.com',
             电话: '+86 127971763',
             前公司: 'Taobao.lda',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Jiaotong University',
             员工编号: '01289561'
           },
@@ -359,7 +359,7 @@
             邮件:'xiaoxin.fang@nio.com',
             电话: '+86 138363293',
             前公司: 'Apple',
-            汇报: 'Andy Lu',
+            老师: 'Andy Lu',
             毕业院校: 'Fudan University',
             员工编号: '01874638'
           },
@@ -431,14 +431,17 @@
             }
             img:nth-child(2){
                 position: absolute;
-                right: 1138px;
-                top: 11px;
+                right: 1697px;
+                top: 16px;
 
             }
         }
         .box-box{
             display: flex;
             margin-top: 50px;
+            .profile-pp{
+                padding: 30px 30px 0;
+            }
             .profile-pp{
                 width: 18.75%;
                 height: 729px;
@@ -507,10 +510,19 @@
                 }
             }
             .box-flow{
+                padding: 50px 100px 0;
+            }
+            .box-flow{
                 width: 1180px;
                 height: 872px;
                 background-color: #ffffff;
                 margin: 0 40px;
+                .the-box{
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: wrap;
+                    margin-top: 60px;
+                }
                 p:nth-child(1){
                     text-align: center;
                     font-weight: bold;
@@ -544,5 +556,21 @@
             }
         }
     }
+    .last-step p{
+        height: 24px;
+        font-size: 16px;
+        font-weight: bold;
+        line-height:24px;
+        margin-bottom: 50px;
+    }
+    .event span{
+        margin-left: 20px;
+        span:nth-child(3){
+            height: 20px;
+            font-size: 14px;
+            font-weight: bold;
+        }
+    }
+
 }
 </style>

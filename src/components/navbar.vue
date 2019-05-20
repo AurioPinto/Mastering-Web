@@ -34,7 +34,7 @@
                         <div class="paragh">
                             <P>{{currentPeople.cnName}}</P>
                             <P>{{currentPeople.enName}}</P>
-                            <P>通信工程</P>
+                            <P>电子信息工程学院</P>
                         </div>
                     </div>
                     <div class="first-buttom">
@@ -59,16 +59,16 @@
                         <p>shanghai-CN</p>
                     </div>
                     <div>
-                        <p class="bold">员工编号</p>
-                        <p>{{currentPeople.员工编号}}</p>
+                        <p class="bold">申请编号</p>
+                        <p>{{currentPeople.申请编号}}</p>
                     </div>
                     <div>
                         <p class="bold">毕业院校</p>
                         <p>{{currentPeople.毕业院校}}</p>
                     </div>
                     <div>
-                        <p class="bold">前公司</p>
-                        <p>{{currentPeople.前公司}}</p>
+                        <p class="bold">专业</p>
+                        <p>{{currentPeople.专业}}</p>
                     </div>
                 </div>
                 <div class="box-flow">
@@ -104,10 +104,10 @@
             enName:"Pinto West",
             邮件:'aurio.pinto@tongji.edu.cn',
             电话: '+86 18717897971',
-            前公司: 'Microsoft',
-            老师: 'Andy Lu',
+            专业: '通信工程',
+            老师: '徐尚志',
             毕业院校: 'Tongji University',
-            员工编号: '0182638'
+            申请编号: '0182638'
           },
           {
             avatar:'../assets/images/img-1.jpg',
@@ -115,10 +115,10 @@
             enName:"Charlie Torphy",
             邮件:'xiaoxin.fang@tongji.edu.cn',
             电话: '+86 138363293',
-            前公司: 'Apple',
-            老师: 'Andy Lu',
+            专业: '自动化',
+            老师: '徐尚志',
             毕业院校: 'Fudan University',
-            员工编号: '01874638'
+            申请编号: '01874638'
           },
           {
             avatar:'../assets/images/img-3.jpg',
@@ -126,10 +126,10 @@
             enName:"Raquel Haag",
             邮件:'raquel.haag@tongji.edu.cn',
             电话: '+86 127978293',
-            前公司: 'Google',
-            老师: 'Andy Lu',
+            专业: '计算机科学与技术',
+            老师: '徐尚志',
             毕业院校: 'Beijing University',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-2.jpg',
@@ -137,10 +137,10 @@
             enName:"Camden Yost",
             邮件:'camden.yost@tongji.edu.cn',
             电话: '+86 122739293',
-            前公司: 'Google',
-            老师: 'Andy Lu',
+            专业: '通信工程',
+            老师: '徐尚志',
             毕业院校: 'Imperial College',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-9.jpg',
@@ -148,10 +148,10 @@
             enName:"Simeon Gislason",
             邮件:'simeon.gislason@tongji.edu.cn',
             电话: '+86 122739293',
-            前公司: 'Toyota',
-            老师: 'Andy Lu',
+            专业: '自动化',
+            老师: '徐尚志',
             毕业院校: 'Mexico University',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-5.jpg',
@@ -159,10 +159,10 @@
             enName:"Alan Cain",
             邮件:'alan.cain@tongji.edu.cn',
             电话: '+86 122739293',
-            前公司: 'Facebook',
-            老师: 'Andy Lu',
+            专业: '计算机科学与技术',
+            老师: '徐尚志',
             毕业院校: 'Oxford University',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-6.jpg',
@@ -170,10 +170,10 @@
             enName:"Rocio Goodwin",
             邮件:'raquel.haag@tongji.edu.cn',
             电话: '+86 127978293',
-            前公司: 'Google',
-            老师: 'Andy Lu',
+            专业: '通信工程',
+            老师: '徐尚志',
             毕业院校: 'Beijing University',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-7.jpg',
@@ -181,10 +181,10 @@
             enName:"Gianni Block",
             邮件:'giami.block@tongji.edu.cn',
             电话: '+86 122739293',
-            前公司: 'Facebook',
-            老师: 'Andy Lu',
+            专业: '自动化',
+            老师: '徐尚志',
             毕业院校: 'Oxford University',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-8.jpg',
@@ -192,10 +192,10 @@
             enName:"Elda Rutherford",
             邮件:'elda.rutherford@tongji.edu.cn',
             电话: '+86 127978293',
-            前公司: 'apLink.lda',
-            老师: 'Andy Lu',
+            专业: '计算机科学与技术',
+            老师: '徐尚志',
             毕业院校: 'Wuhan University',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-4.jpg',
@@ -203,10 +203,10 @@
             enName:"Kole Bednar",
             邮件:'kole.bednar@tongji.edu.cn',
             电话: '+86 185278293',
-            前公司: 'Tecent',
-            老师: 'Andy Lu',
+            专业: '通信工程',
+            老师: '徐尚志',
             毕业院校: 'Beijing University',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-13.jpg',
@@ -214,10 +214,10 @@
             enName:"Jarret Mante",
             邮件:'jarret.manteg@tongji.edu.cn',
             电话: '+86 172637893',
-            前公司: 'Forbes',
-            老师: 'Andy Lu',
+            专业: '计算机科学与技术',
+            老师: '徐尚志',
             毕业院校: 'State University',
-            员工编号: '01226726'
+            申请编号: '01226726'
           },
           {
             avatar:'../assets/images/pretty.jpg',
@@ -225,10 +225,10 @@
             enName:"Vilma Connell",
             邮件:'vilma.connellg@tongji.edu.cn',
             电话: '+86 127971763',
-            前公司: 'Taobao.cn',
-            老师: 'Andy Lu',
+            专业: '自动化',
+            老师: '徐尚志',
             毕业院校: 'Jiaotong University',
-            员工编号: '01289561'
+            申请编号: '01289561'
           },
           {
             avatar:'../assets/images/img-1.jpg',
@@ -236,10 +236,10 @@
             enName:"Charlie Torphy",
             邮件:'xiaoxin.fang@tongji.edu.cn',
             电话: '+86 138363293',
-            前公司: 'Apple',
-            老师: 'Andy Lu',
+            专业: '通信工程',
+            老师: '徐尚志',
             毕业院校: 'Fudan University',
-            员工编号: '01874638'
+            申请编号: '01874638'
           },
           {
             avatar:'../assets/images/img-3.jpg',
@@ -247,10 +247,10 @@
             enName:"Raquel Haag",
             邮件:'raquel.haag@tongji.edu.cn',
             电话: '+86 127978293',
-            前公司: 'Google',
-            老师: 'Andy Lu',
+            专业: '计算机科学与技术',
+            老师: '徐尚志',
             毕业院校: 'Beijing University',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-2.jpg',
@@ -258,10 +258,10 @@
             enName:"Camden Yost",
             邮件:'camden.yost@tongji.edu.cn',
             电话: '+86 122739293',
-            前公司: 'Google',
-            老师: 'Andy Lu',
+            专业: '计算机科学与技术',
+            老师: '徐尚志',
             毕业院校: 'Imperial College',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-9.jpg',
@@ -269,10 +269,10 @@
             enName:"Simeon Gislason",
             邮件:'simeon.gislason@tongji.edu.cn',
             电话: '+86 122739293',
-            前公司: 'Toyota',
-            老师: 'Andy Lu',
+            专业: '通信工程',
+            老师: '徐尚志',
             毕业院校: 'Mexico University',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-5.jpg',
@@ -280,10 +280,10 @@
             enName:"Alan Cain",
             邮件:'alan.cain@nio.com',
             电话: '+86 122739293',
-            前公司: 'Facebook',
-            老师: 'Andy Lu',
+            专业: '自动化',
+            老师: '徐尚志',
             毕业院校: 'Oxford University',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
 
           {
@@ -292,10 +292,10 @@
             enName:"Rocio Goodwin",
             邮件:'raquel.haag@nio.com',
             电话: '+86 127978293',
-            前公司: 'Google',
-            老师: 'Andy Lu',
+            专业: '通信工程',
+            老师: '徐尚志',
             毕业院校: 'Beijing University',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-7.jpg',
@@ -303,10 +303,10 @@
             enName:"Gianni Block",
             邮件:'giami.block@nio.com',
             电话: '+86 122739293',
-            前公司: 'Facebook',
-            老师: 'Andy Lu',
+            专业: '计算机科学与技术',
+            老师: '徐尚志',
             毕业院校: 'Oxford University',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-8.jpg',
@@ -314,10 +314,10 @@
             enName:"Elda Rutherford",
             邮件:'elda.rutherford@nio.com',
             电话: '+86 127978293',
-            前公司: 'apLink.lda',
-            老师: 'Andy Lu',
+            专业: '自动化',
+            老师: '徐尚志',
             毕业院校: 'Wuhan University',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-4.jpg',
@@ -325,10 +325,10 @@
             enName:"Kole Bednar",
             邮件:'kole.bednar@nio.com',
             电话: '+86 185278293',
-            前公司: 'Tecent',
-            老师: 'Andy Lu',
+            专业: '自动化',
+            老师: '徐尚志',
             毕业院校: 'Beijing University',
-            员工编号: '01289138'
+            申请编号: '01289138'
           },
           {
             avatar:'../assets/images/img-13.jpg',
@@ -336,10 +336,10 @@
             enName:"Jarret Mante",
             邮件:'jarret.manteg@nio.com',
             电话: '+86 172637893',
-            前公司: 'Forbes',
-            老师: 'Andy Lu',
+            专业: '计算机科学与技术',
+            老师: '徐尚志',
             毕业院校: 'State University',
-            员工编号: '01226726'
+            申请编号: '01226726'
           },
           {
             avatar:'../assets/images/pretty.jpg',
@@ -347,10 +347,10 @@
             enName:"Vilma Connell",
             邮件:'vilma.connellg@nio.com',
             电话: '+86 127971763',
-            前公司: 'Taobao.lda',
-            老师: 'Andy Lu',
+            专业: '自动化',
+            老师: '徐尚志',
             毕业院校: 'Jiaotong University',
-            员工编号: '01289561'
+            申请编号: '01289561'
           },
           {
             avatar:'../assets/images/img-1.jpg',
@@ -358,10 +358,10 @@
             enName:"Charlie Torphy",
             邮件:'xiaoxin.fang@nio.com',
             电话: '+86 138363293',
-            前公司: 'Apple',
-            老师: 'Andy Lu',
+            专业: '计算机科学与技术',
+            老师: '徐尚志',
             毕业院校: 'Fudan University',
-            员工编号: '01874638'
+            申请编号: '01874638'
           },
         ],
         currentPeople:{
@@ -431,7 +431,7 @@
             }
             img:nth-child(2){
                 position: absolute;
-                right: 1697px;
+                right: 1207px;
                 top: 16px;
 
             }

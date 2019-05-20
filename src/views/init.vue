@@ -18,7 +18,8 @@
 
 <style lang="scss" scoped>
     .unix {
-        background-color: #00263c;
+        /*background-color: #00263c;*/
+        background-color: #ffffff;
         min-height: 100vh;
     }
 </style>

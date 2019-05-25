@@ -24,6 +24,11 @@
   margin-inline-start: 0;
   margin-inline-end: 0;
 }
+// p {
+//   margin: 0;
+//   margin-bottom: 0;
+//   margin-top: 0;
+// }
 body::-webkit-scrollbar {
   display: none;
 }

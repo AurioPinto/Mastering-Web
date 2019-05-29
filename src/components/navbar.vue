@@ -8,7 +8,7 @@
             <router-link to="init">Home</router-link>
             <router-link to="navbar">Students</router-link>
             <a href="https://en.tongji.edu.cn/">About Tongji</a>
-            <a href="http://www.lib.tongji.edu.cn/site/tongji/index.html">Library</a>
+            <a href="http://www.lib.tongji.edu.cn/">Library</a>
           </div>
         </div>
         <div class="img">
@@ -63,8 +63,8 @@
               <p>{{currentPeople.申请编号}}</p>
             </div>
             <div>
-              <p class="bold">毕业院校</p>
-              <p>{{currentPeople.毕业院校}}</p>
+              <!-- <p class="bold">毕业院校</p> -->
+              <!-- <p>{{currentPeople.毕业院校}}</p> -->
             </div>
             <div>
               <p class="bold">专业</p>
@@ -106,7 +106,7 @@ export default {
           电话: "+86 18717897971",
           专业: "通信工程",
           老师: "徐尚志",
-          毕业院校: "Tongji University",
+          // 毕业院校: "Tongji University",
           申请编号: "0182638"
         },
         {
@@ -117,7 +117,7 @@ export default {
           电话: "+86 138363293",
           专业: "自动化",
           老师: "徐尚志",
-          毕业院校: "Fudan University",
+          // 毕业院校: "Fudan University",
           申请编号: "01874638"
         },
         {
@@ -128,7 +128,7 @@ export default {
           电话: "+86 127978293",
           专业: "计算机科学与技术",
           老师: "徐尚志",
-          毕业院校: "Beijing University",
+          // 毕业院校: "Beijing University",
           申请编号: "01289138"
         },
         {
@@ -139,7 +139,7 @@ export default {
           电话: "+86 122739293",
           专业: "通信工程",
           老师: "徐尚志",
-          毕业院校: "Imperial College",
+          // 毕业院校: "Imperial College",
           申请编号: "01289138"
         },
         {
@@ -150,7 +150,7 @@ export default {
           电话: "+86 122739293",
           专业: "自动化",
           老师: "徐尚志",
-          毕业院校: "Mexico University",
+          // 毕业院校: "Mexico University",
           申请编号: "01289138"
         },
         {
@@ -161,7 +161,7 @@ export default {
           电话: "+86 122739293",
           专业: "计算机科学与技术",
           老师: "徐尚志",
-          毕业院校: "Oxford University",
+          // 毕业院校: "Oxford University",
           申请编号: "01289138"
         },
         {
@@ -172,7 +172,7 @@ export default {
           电话: "+86 127978293",
           专业: "通信工程",
           老师: "徐尚志",
-          毕业院校: "Beijing University",
+          // 毕业院校: "Beijing University",
           申请编号: "01289138"
         },
         {
@@ -183,7 +183,7 @@ export default {
           电话: "+86 122739293",
           专业: "自动化",
           老师: "徐尚志",
-          毕业院校: "Oxford University",
+          // 毕业院校: "Oxford University",
           申请编号: "01289138"
         },
         {
@@ -194,7 +194,7 @@ export default {
           电话: "+86 127978293",
           专业: "计算机科学与技术",
           老师: "徐尚志",
-          毕业院校: "Wuhan University",
+          // 毕业院校: "Wuhan University",
           申请编号: "01289138"
         },
         {
@@ -205,7 +205,7 @@ export default {
           电话: "+86 185278293",
           专业: "通信工程",
           老师: "徐尚志",
-          毕业院校: "Beijing University",
+          // 毕业院校: "Beijing University",
           申请编号: "01289138"
         },
         {
@@ -216,7 +216,7 @@ export default {
           电话: "+86 172637893",
           专业: "计算机科学与技术",
           老师: "徐尚志",
-          毕业院校: "State University",
+          // 毕业院校: "State University",
           申请编号: "01226726"
         },
         {
@@ -227,7 +227,7 @@ export default {
           电话: "+86 127971763",
           专业: "自动化",
           老师: "徐尚志",
-          毕业院校: "Jiaotong University",
+          // 毕业院校: "Jiaotong University",
           申请编号: "01289561"
         },
         {
@@ -238,7 +238,7 @@ export default {
           电话: "+86 138363293",
           专业: "通信工程",
           老师: "徐尚志",
-          毕业院校: "Fudan University",
+          // 毕业院校: "Fudan University",
           申请编号: "01874638"
         },
         {
@@ -249,7 +249,7 @@ export default {
           电话: "+86 127978293",
           专业: "计算机科学与技术",
           老师: "徐尚志",
-          毕业院校: "Beijing University",
+          // 毕业院校: "Beijing University",
           申请编号: "01289138"
         },
         {
@@ -260,7 +260,7 @@ export default {
           电话: "+86 122739293",
           专业: "计算机科学与技术",
           老师: "徐尚志",
-          毕业院校: "Imperial College",
+          // 毕业院校: "Imperial College",
           申请编号: "01289138"
         },
         {
@@ -271,7 +271,7 @@ export default {
           电话: "+86 122739293",
           专业: "通信工程",
           老师: "徐尚志",
-          毕业院校: "Mexico University",
+          // 毕业院校: "Mexico University",
           申请编号: "01289138"
         },
         {
@@ -282,7 +282,7 @@ export default {
           电话: "+86 122739293",
           专业: "自动化",
           老师: "徐尚志",
-          毕业院校: "Oxford University",
+          // 毕业院校: "Oxford University",
           申请编号: "01289138"
         },
 
@@ -294,7 +294,7 @@ export default {
           电话: "+86 127978293",
           专业: "通信工程",
           老师: "徐尚志",
-          毕业院校: "Beijing University",
+          // 毕业院校: "Beijing University",
           申请编号: "01289138"
         },
         {
@@ -305,7 +305,7 @@ export default {
           电话: "+86 122739293",
           专业: "计算机科学与技术",
           老师: "徐尚志",
-          毕业院校: "Oxford University",
+          // 毕业院校: "Oxford University",
           申请编号: "01289138"
         },
         {
@@ -316,7 +316,7 @@ export default {
           电话: "+86 127978293",
           专业: "自动化",
           老师: "徐尚志",
-          毕业院校: "Wuhan University",
+          // 毕业院校: "Wuhan University",
           申请编号: "01289138"
         },
         {
@@ -327,7 +327,7 @@ export default {
           电话: "+86 185278293",
           专业: "自动化",
           老师: "徐尚志",
-          毕业院校: "Beijing University",
+          // 毕业院校: "Beijing University",
           申请编号: "01289138"
         },
         {
@@ -338,7 +338,7 @@ export default {
           电话: "+86 172637893",
           专业: "计算机科学与技术",
           老师: "徐尚志",
-          毕业院校: "State University",
+          // 毕业院校: "State University",
           申请编号: "01226726"
         },
         {
@@ -349,7 +349,7 @@ export default {
           电话: "+86 127971763",
           专业: "自动化",
           老师: "徐尚志",
-          毕业院校: "Jiaotong University",
+          // 毕业院校: "Jiaotong University",
           申请编号: "01289561"
         },
         {
@@ -360,7 +360,7 @@ export default {
           电话: "+86 138363293",
           专业: "计算机科学与技术",
           老师: "徐尚志",
-          毕业院校: "Fudan University",
+          // 毕业院校: "Fudan University",
           申请编号: "01874638"
         }
       ],

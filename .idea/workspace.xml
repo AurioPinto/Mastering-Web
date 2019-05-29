@@ -5,7 +5,15 @@
     <bookmark url="file://$PROJECT_DIR$/src/components/navbar.vue" line="18" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd0a3931-d3f3-4983-a902-8dd61f52a25e" name="Default Changelist" comment="" />
+    <list default="true" id="fd0a3931-d3f3-4983-a902-8dd61f52a25e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/08d31734e1ab9cc3cc33b363aa8b5efc.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/08d31734e1ab9cc3cc33b363aa8b5efc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/025c03eded6f45059b49e6e2037c8505.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/025c03eded6f45059b49e6e2037c8505.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/868655e675f8fe5e6428705e6d255167.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/868655e675f8fe5e6428705e6d255167.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a81860ced7dbcbe6e72b1d543487e6ca.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a81860ced7dbcbe6e72b1d543487e6ca.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ac94b09dc4005aba863cc9148f056267.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ac94b09dc4005aba863cc9148f056267.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/acf19137d500782906b97797055f5afb.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/acf19137d500782906b97797055f5afb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/init.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/init.vue" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -49,8 +57,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/init.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="437">
-                  <caret line="85" column="26" lean-forward="true" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+                <state relative-caret-position="828">
+                  <caret line="102" column="24" lean-forward="true" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
                 </state>
               </provider>
             </entry>
@@ -67,8 +75,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/components/navbar.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="9775">
-                  <caret line="425" column="27" selection-start-line="425" selection-start-column="27" selection-end-line="425" selection-end-column="27" />
+                <state relative-caret-position="10971">
+                  <caret line="477" column="27" selection-start-line="477" selection-start-column="27" selection-end-line="477" selection-end-column="27" />
                 </state>
               </provider>
             </entry>
@@ -80,8 +88,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/navbar.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="10419">
-                  <caret line="453" column="32" selection-start-line="453" selection-start-column="32" selection-end-line="453" selection-end-column="32" />
+                <state relative-caret-position="1862">
+                  <caret line="499" column="13" selection-start-line="499" selection-start-column="13" selection-end-line="499" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -156,7 +164,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,6 +203,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,15 +251,15 @@
       <workItem from="1558337413904" duration="482000" />
       <workItem from="1558357040903" duration="2540000" />
       <workItem from="1558380484093" duration="297000" />
+      <workItem from="1559109576323" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61753000" />
+    <option name="totallyTimeSpent" value="61785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1721959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -351,15 +359,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/init.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="85" column="26" lean-forward="true" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+        <state relative-caret-position="828">
+          <caret line="102" column="24" lean-forward="true" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/navbar.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10419">
-          <caret line="453" column="32" selection-start-line="453" selection-start-column="32" selection-end-line="453" selection-end-column="32" />
+        <state relative-caret-position="1862">
+          <caret line="499" column="13" selection-start-line="499" selection-start-column="13" selection-end-line="499" selection-end-column="13" />
         </state>
       </provider>
     </entry>

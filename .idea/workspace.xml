@@ -5,7 +5,1078 @@
     <bookmark url="file://$PROJECT_DIR$/src/components/navbar.vue" line="18" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd0a3931-d3f3-4983-a902-8dd61f52a25e" name="Default Changelist" comment="" />
+    <list default="true" id="fd0a3931-d3f3-4983-a902-8dd61f52a25e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/assets/images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/2b07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Artboard Copy 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Artboard Copy 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Artboard Copy 4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Artboard Copy 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Artboard Copy 9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Artboard Copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Artboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Bitmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Fill 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Group (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Group 12 (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Group 22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Group 27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Group 31 Copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Group 4гк Copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Group 51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/LogoгпNIO_Internal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/LogoгпNIO_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Mrs.Pintp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/NIO1jpg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Nio-book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Nio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Oval 13 (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Oval 13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Page 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Rectangle + BR_002_Sunrise_Couple_HI_RGB + Rectangle Mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Rectangle-path (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Rectangle-path (3).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Rectangle-path (4).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Rectangle-path.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Rectangle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Shape@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Stop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/WP.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/WWest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/West.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/alert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/apple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/bali.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/berlin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/btn_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/btn_camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/btn_closed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/btn_more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/btn_photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/camer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/chat icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/chinaTongji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/cloud.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/commentTop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/compass icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/computer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/context.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/create.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/createbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/deep.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/demo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f0cf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f170.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f171.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f17e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f17f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f18e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f191.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f193.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f194.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f195.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f196.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f197.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f198.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f199.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f19a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1e6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1e7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1e8-1f1f3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1e8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1e9-1f1ea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1e9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1ea-1f1f8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1ea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1eb-1f1f7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1eb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1ec-1f1e7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1ec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1ed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1ee-1f1f9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1ee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1ef-1f1f5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1ef.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1f0-1f1f7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1f0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1f1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1f2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1f3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1f4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1f5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1f6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1f7-1f1fa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1f7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1f8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1f9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1fa-1f1f8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1fa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1fc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1fd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1fe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f1ff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f201.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f202.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f21a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f22f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f232.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f233.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f234.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f235.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f236.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f237.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f238.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f239.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f23a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f250.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f251.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f301.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f302.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f303.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f304.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f305.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f306.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f307.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f308.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f309.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f30a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f30b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f30c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f30d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f30e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f30f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f310.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f311.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f312.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f313.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f314.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f315.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f316.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f317.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f318.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f319.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f31a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f31b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f31c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f31d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f31e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f31f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f320.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f330.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f331.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f332.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f333.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f334.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f335.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f337.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f338.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f339.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f33a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f33b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f33c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f33d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f33e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f33f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f340.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f341.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f342.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f343.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f344.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f345.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f346.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f347.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f348.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f349.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f34a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f34b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f34c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f34d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f34e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f34f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f350.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f351.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f352.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f353.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f354.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f355.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f356.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f357.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f358.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f359.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f35a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f35b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f35c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f35d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f35e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f35f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f360.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f361.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f362.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f363.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f364.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f365.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f366.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f367.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f368.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f369.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f36a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f36b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f36c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f36d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f36e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f36f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f370.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f371.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f372.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f373.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f374.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f375.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f376.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f377.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f378.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f379.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f37a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f37b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f37c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f380.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f381.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f382.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f383.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f385.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f386.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f387.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f388.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f389.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f38a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f38b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f38c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f38d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f38e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f38f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f390.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f391.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f392.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f393.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3a0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3a1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3a2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3a3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3a4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3a5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3a6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3a7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3a8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3a9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3aa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3ab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3ac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3ad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3ae.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3af.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3b0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3b1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3b2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3b3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3b4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3b5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3b6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3b7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3b8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3b9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3ba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3bb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3bc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3bd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3be.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3bf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3c0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3c1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3c4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3c6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3c7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3c8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3c9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3ca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3e0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3e1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3e2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3e4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3e5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3e6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3e7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3e8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3e9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3ea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3eb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3ec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3ed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3ee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3ef.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f3f0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f401.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f402.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f403.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f405.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f406.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f407.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f408.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f409.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f40a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f40b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f40c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f40d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f40e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f40f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f410.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f411.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f412.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f413.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f414.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f415.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f416.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f417.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f418.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f419.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f41a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f41b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f41c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f41d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f41e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f41f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f420.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f421.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f422.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f423.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f424.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f425.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f426.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f427.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f428.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f429.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f42a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f42b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f42c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f42d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f42e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f42f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f430.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f431.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f432.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f433.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f434.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f435.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f436.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f437.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f438.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f439.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f43a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f43b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f43c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f43d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f43e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f440.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f442.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f443.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f444.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f445.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f446.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f447.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f448.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f449.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f44a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f44b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f44c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f44d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f44e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f44f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f450.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f451.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f452.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f453.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f454.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f455.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f457.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f458.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f459.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f45a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f45b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f45c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f45d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f45e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f45f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f460.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f461.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f462.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f463.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f464.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f465.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f466.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f467.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f468.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f469.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f46a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f46b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f46c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f46d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f46e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f46f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f470.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f471.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f472.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f473.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f474.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f475.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f476.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f477.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f478.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f479.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f47a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f47b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f47c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f47d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f47e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f47f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f480.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f481.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f482.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f483.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f484.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f485.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f486.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f487.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f488.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f489.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f48a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f48b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f48c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f48d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f48e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f48f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f490.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f491.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f492.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f493.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f494.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f495.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f496.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f497.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f498.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f499.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f49a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f49b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f49c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f49d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f49e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f49f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4a0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4a1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4a2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4a3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4a4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4a5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4a6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4a7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4a8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4a9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4aa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4ab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4ac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4ad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4ae.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4af.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4b0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4b1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4b2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4b3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4b4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4b5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4b6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4b7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4b8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4b9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4ba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4bb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4bc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4bd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4be.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4bf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4c0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4c1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4c4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4c5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4c6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4c7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4c8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4c9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4ca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4cb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4cc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4cd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4ce.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4cf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4d0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4d1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4d2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4d3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4d4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4d5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4d6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4d7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4d8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4d9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4da.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4db.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4dc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4dd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4de.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4df.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4e0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4e1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4e2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4e4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4e5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4e6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4e7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4e8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4e9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4ea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4eb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4ec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4ed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4ee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4ef.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4f0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4f1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4f2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4f3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4f4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4f5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4f6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4f7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4f9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4fa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f4fc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f500.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f501.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f502.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f503.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f504.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f505.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f506.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f507.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f508.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f509.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f50a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f50b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f50c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f50d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f50e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f50f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f510.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f511.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f513.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f514.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f515.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f516.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f517.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f518.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f519.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f51a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f51b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f51c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f51d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f51e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f51f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f520.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f521.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f522.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f523.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f524.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f525.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f526.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f527.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f528.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f529.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f52a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f52b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f52c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f52d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f52e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f52f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f530.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f531.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f532.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f533.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f534.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f535.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f536.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f537.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f538.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f539.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f53a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f53b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f53c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f53d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f550.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f551.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f552.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f553.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f554.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f555.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f556.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f557.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f558.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f559.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f55a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f55b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f55c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f55d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f55e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f55f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f560.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f561.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f562.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f563.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f564.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f565.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f566.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f567.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f5fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f5fc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f5fd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f5fe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f5ff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f600.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f601.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f602.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f603.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f604.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f605.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f606.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f607.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f608.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f609.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f60a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f60b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f60c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f60d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f60e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f60f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f610.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f611.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f612.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f613.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f614.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f615.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f616.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f617.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f618.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f619.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f61a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f61b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f61c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f61d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f61e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f61f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f620.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f621.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f622.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f623.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f624.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f625.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f626.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f627.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f628.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f629.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f62a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f62b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f62c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f62d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f62e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f62f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f630.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f631.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f632.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f633.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f634.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f635.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f636.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f637.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f638.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f639.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f63a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f63b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f63c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f63d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f63e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f63f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f640.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f645.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f646.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f647.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f648.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f649.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f64a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f64b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f64c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f64d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f64e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f64f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f680.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f681.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f682.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f683.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f684.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f685.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f686.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f687.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f688.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f689.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f68a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f68b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f68c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f68d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f68e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f68f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f690.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f691.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f692.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f693.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f694.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f695.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f696.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f697.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f698.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f699.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f69a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f69b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f69c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f69d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f69e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f69f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6a0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6a1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6a2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6a3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6a4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6a5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6a6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6a7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6a8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6a9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6aa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6ab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6ac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6ad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6ae.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6af.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6b0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6b1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6b2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6b3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6b4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6b5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6b6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6b7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6b8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6b9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6ba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6bb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6bc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6bd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6be.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6bf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6c0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6c1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6c4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/1f6c5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/203c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2049.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2122.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2139.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2194.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2195.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2196.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2197.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2198.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2199.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/21a9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/21aa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/23-20e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/231a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/231b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/23e9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/23ea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/23eb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/23ec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/23f0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/23f3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/24c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/25aa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/25ab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/25b6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/25c0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/25fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/25fc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/25fd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/25fe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2600.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2601.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/260e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2611.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2614.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2615.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/261d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/263a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2648.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2649.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/264a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/264b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/264c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/264d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/264e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/264f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2650.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2651.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2652.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2653.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2660.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2663.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2665.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2666.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2668.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/267b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/267f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2693.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26a0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26a1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26aa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26ab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26bd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26be.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26c4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26c5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26ce.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26d4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26ea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26f2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26f3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26f5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26fa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/26fd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2702.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2705.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2708.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2709.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/270a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/270b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/270c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/270f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2712.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2714.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2716.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2728.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2733.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2734.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2744.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2747.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/274c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/274e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2753.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2754.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2755.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2757.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2764.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2795.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2796.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2797.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/27a1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/27b0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/27bf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2934.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2935.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2b05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2b06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2b07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2b1b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2b1c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2b50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/2b55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/30-20e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/3030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/303d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/31-20e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/32-20e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/3297.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/3299.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/33-20e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/34-20e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/35-20e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/36-20e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/37-20e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/38-20e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/39-20e3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/a9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/ae.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/e50a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emoji/72x72/emojidefault.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emojidefault.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emotion1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emotion10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emotion11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emotion12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emotion13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emotion2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emotion3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emotion4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emotion5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emotion6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emotion7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emotion8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emotion9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emptyRank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/emptyso.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/english-book.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fill-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fill-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fill-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fill-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fill-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fill-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fill-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fill-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fill-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/fill-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/from_voice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/from_voice_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/from_voice_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/gate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/hand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/hand2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/his.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/his1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/home1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/icon_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/icon_top (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/icon_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-10.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-11.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/imgDel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/laptop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/library-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/library.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/loading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/machine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/main-nio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/mainT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/mark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/mask (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/me.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/me1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/message1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/microsoft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/nice-tongji.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/nio-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/nio-on-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/nio-people.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/noUser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/official.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/other-nio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/people-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/people.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/pretty.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/profile-pic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/ps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/python-book.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/rankBg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/redbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/redinbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/regbag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/rewardAvatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/scan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/seacch icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/search1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/sipingT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/slah.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/small-scan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/squad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/textas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/thumbs-up-light-skin-tone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/timg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/to_voice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/to_voice_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/to_voice_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/today.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/tongji-log.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/tongji.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/tongjirongji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/tttime.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/userheader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/vc (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/vc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/weibo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/weixi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/welcomebg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/west-bj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/west-bj2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/writting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/xiaotongji.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/yes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/═╝╩щ╟╨═╝.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/╔и┬ы (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/╠с╨╤ copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/╡ч─╘╬м╗д.png" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -49,8 +1120,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/init.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="988">
-                  <caret line="110" column="24" selection-start-line="110" selection-start-column="24" selection-end-line="110" selection-end-column="24" />
+                <state relative-caret-position="1839">
+                  <caret line="92" column="8" lean-forward="true" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
                 </state>
               </provider>
             </entry>
@@ -143,10 +1214,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="158" />
-    <option name="width" value="1440" />
-    <option name="height" value="791" />
+    <option name="x" value="1920" />
+    <option name="width" value="2560" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -156,6 +1226,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,45 +1234,16 @@
               <item name="Mastering-Web" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mastering-Web" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Mastering-Web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mastering-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mastering-Web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mastering-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mastering-Web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mastering-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mastering-Web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mastering-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mastering-Web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mastering-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-project" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -245,16 +1287,17 @@
       <workItem from="1558380484093" duration="297000" />
       <workItem from="1559109576323" duration="32000" />
       <workItem from="1559568016124" duration="13000" />
+      <workItem from="1560951138371" duration="87000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61798000" />
+    <option name="totallyTimeSpent" value="61885000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <frame x="1920" y="0" width="2560" height="1080" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1721959" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.128397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -350,17 +1393,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/init.vue">
+    <entry file="file://$PROJECT_DIR$/src/components/navbar.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="110" column="24" selection-start-line="110" selection-start-column="24" selection-end-line="110" selection-end-column="24" />
+        <state relative-caret-position="10971">
+          <caret line="477" column="27" selection-start-line="477" selection-start-column="27" selection-end-line="477" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/navbar.vue">
+    <entry file="file://$PROJECT_DIR$/src/components/init.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="804">
-          <caret line="499" column="13" selection-start-line="499" selection-start-column="13" selection-end-line="499" selection-end-column="13" />
+        <state relative-caret-position="1839">
+          <caret line="92" column="8" lean-forward="true" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
         </state>
       </provider>
     </entry>

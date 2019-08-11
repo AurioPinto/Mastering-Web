@@ -24,4 +24,8 @@ run
 
 If you are familiar with JavaScript and are considering to go more in depth with the Vue framework, please visit the following website:
 
-vue[doc](https://vuejs.org/)
+vue [doc](https://vuejs.org/)
+
+![main-page](src/assets/tongji.png)
+
+![User-Profiles](src/assets/profile.png)
